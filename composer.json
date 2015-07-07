@@ -1,7 +1,7 @@
 {
-  "name": "ktamas77/firebase-php",
+  "name": "devbry/firebase-php",
   "description": "Firebase PHP Client",
-  "homepage": "https://github.com/ktamas77/firebase-php",
+  "homepage": "https://github.com/brayansdt/firebase-php",
   "keywords": [
     "firebase",
     "REST",
